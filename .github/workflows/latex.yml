@@ -2,8 +2,6 @@ name: Build LaTeX document
 on: 
   pull_request:
     branches: [ main ]
-  release:
-    branches: [ main ]
 jobs:
   build_latex:
     runs-on: ubuntu-latest
