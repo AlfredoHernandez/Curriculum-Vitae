@@ -1,9 +1,9 @@
-name: Build LaTeX document
+name: Upload LaTeX document to release
 on:
   release:
     branches: [ main ]
 jobs:
-  build_latex:
+  build_for_release:
     runs-on: ubuntu-latest
     steps:
       - name: Set up Git repository
