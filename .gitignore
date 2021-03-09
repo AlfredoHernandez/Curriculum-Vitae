@@ -293,4 +293,5 @@ TSWLatexianTemp*
 # glossaries
 *.glstex
 
-# End of https://www.toptal.com/developers/gitignore/api/latex
+# Compiled PDF
+*.pdf
