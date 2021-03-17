@@ -8,4 +8,4 @@ My curriculum vitae
 
 This tex file was created using [TexPad](https://www.texpad.com) mac application with a in cloud text compiler.
 
-Alfredo Hernández.
+J. Alfredo Hernández.
