@@ -1,4 +1,4 @@
-[![Build LaTeX document](https://github.com/AlfredoHernandez/curriculum-vitae/actions/workflows/latex.yml/badge.svg)](https://github.com/AlfredoHernandez/curriculum-vitae/actions/workflows/latex.yml)
+[![Upload LaTeX document to release](https://github.com/AlfredoHernandez/curriculum-vitae/actions/workflows/release.yml/badge.svg)](https://github.com/AlfredoHernandez/curriculum-vitae/actions/workflows/release.yml)
 
 # Curriculum Vitae 
 
